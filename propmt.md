@@ -1,0 +1,1 @@
+@https://www.figma.com/design/ywd6E3m6Btc1mUqXiXLHyR/Knight-v3?node-id=625-603&m=dev 根据这个figma设计稿，使用Next.js 14 App Router + TypeScript + React + Shadcn UI + Tailwind在当前目录生成项目， 需要支持多语言和移动端自适应
